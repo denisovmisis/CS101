@@ -1,5 +1,5 @@
 # Intro to computer science CS101
-Homeworks for my student cource. 
+Homeworks for my student course. 
 
 ## List of prjects:
 
