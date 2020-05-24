@@ -11,4 +11,4 @@ Homeworks for my student course.
 
 > HTML, CSS, JS, Generative art, Web development.  
 
- ![Результат выполнения](/HW3/image/asset.png) 
+ ![Результат выполнения](CS101/HW3/image/asset.png) 
