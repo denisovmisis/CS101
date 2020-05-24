@@ -9,4 +9,6 @@ Homeworks for my student course.
 - HW5 - basic moving mechanics for games without using extra libraries
 - HW6 - full arcade game with p5 play library
 
-> HTML, CSS, JS, Generative art, Web development.   
+> HTML, CSS, JS, Generative art, Web development.  
+
+ ![Результат выполнения](/assets/images/asset.png) 
