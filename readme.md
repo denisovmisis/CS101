@@ -1,12 +1,12 @@
 # Intro to computer science CS101
-Homeworks for my student course. 
+Выполнение домашних работ по данному курсу. 
 
-## List of prjects:
+## Перечень проектов:
 
-- HW2 - student rating count
-- HW3 - static design patterns
-- HW4 - dynamic design patterns with sounds
-- HW5 - basic moving mechanics for games without using extra libraries
-- HW6 - full arcade game with p5 play library
+- HW2 - подсчет рейтинга студентов
+- HW3 - создание статических узоров посредством языка javaScript
+- HW4 - создание динамических узоров посредством языка javaScript
+- HW5 - базовые механики перемещения в играх без использования дополнительных библиотек
+- HW6 - создание аркадной игры
 
 > HTML, CSS, JS, Generative art, Web development.   

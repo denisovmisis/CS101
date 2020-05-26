@@ -1,14 +1,12 @@
-# Intro to computer science CS101
-Homeworks for my student course. 
+# HW3
+Создание статических узоров посредством языка javaScript. 
 
-## List of prjects:
+## Результат:
 
-- HW2 - student rating count
-- HW3 - static design patterns
-- HW4 - dynamic design patterns with sounds
-- HW5 - basic moving mechanics for games without using extra libraries
-- HW6 - full arcade game with p5 play library
+- Абстрактная картина
+> Абстрактная картина
+![Результат выполнения](https://github.com/denisovmisis/CS101/blob/master/HW03/image/asset.png) 
 
-> HTML, CSS, JS, Generative art, Web development.  
-
- ![Результат выполнения](https://github.com/denisovmisis/CS101/blob/master/HW03/image/asset.png) 
+- Узор типа "mandala" 
+> Узор типа "mandala"
+![Результат выполнения](https://github.com/denisovmisis/CS101/blob/master/HW03/image/asset.png) 
