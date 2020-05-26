@@ -3,12 +3,12 @@
 
 ## Результат:
 
-- Абстрактная картина
+1. Абстрактная картина
 > Абстрактная картина
 
 ![Результат выполнения](https://github.com/denisovmisis/CS101/blob/master/HW03/image/abstract.png) 
 
-- Узор типа "mandala" 
+2. Узор типа "mandala" 
 > Узор типа "mandala"
 
 ![Результат выполнения](https://github.com/denisovmisis/CS101/blob/master/HW03/image/pattern.png) 
