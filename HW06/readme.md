@@ -11,7 +11,7 @@ Cоздание аркадной игры
 В качестве примеров работы программы приведены 2 файла:
 
 1. Демонстрация столкновения
-![Результат выполнения](https://github.com/denisovmisis/CS101/blob/master/HW06/images/HW6fail.gif) 
+![Столкновение](https://github.com/denisovmisis/CS101/blob/master/HW06/images/HW6fail.gif) 
 
 2. Демонстрация уклонения от столкновения с помощью прыжка
-![Результат выполнения](https://github.com/denisovmisis/CS101/blob/master/HW06/images/HW6win.gif) 
+![Уклонение](https://github.com/denisovmisis/CS101/blob/master/HW06/images/HW6win.gif) 
