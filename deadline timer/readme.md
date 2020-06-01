@@ -3,10 +3,6 @@
 
 ## Результат:
 
-1. ![Макет](https://github.com/denisovmisis/CS101/blob/master/deadline%20timer/MacBook%20Pro%20-%202.png)
+![Макет](https://github.com/denisovmisis/CS101/blob/master/deadline%20timer/MacBook%20Pro%20-%202.png)
 
-2. 
-
-Ссылка на макет ссылка
-Картинка 
 
