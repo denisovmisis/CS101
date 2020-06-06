@@ -1,11 +1,10 @@
-# HW7
-Верстка статической страницы по макету Figma
+# HW7.1 
+Получение данных по API
 
 ## Результат:
 
-1. Вид макета
-![Макет](https://github.com/denisovmisis/CS101/blob/master/HW07/FigmaDesign.png)
+Написан скрипт, запрашивающий изображение дня (по версии NASA) и выводящий данное изображение вместе с описанием на html страницу.
 
-2. [Ссылка](https://www.figma.com/file/6xGlwqHNzST4YVEvgkeos1/Deadline-Timer?node-id=0%3A1) на макет в figma
+Код скрипта в файле nasascript.js
+![Демонстрация работы](https://codepen.io/amd_amd/live/ZEQGyjB) 
 
-3. Отображение верстки и css-стилей на сервисе [codepen.io](https://codepen.io/amd_amd/pen/ExPYwom)
